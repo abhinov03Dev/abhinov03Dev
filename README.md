@@ -176,16 +176,6 @@ const abhinov = {
   <img src="https://profile-counter.glitch.me/{abhinov956tech-developer}/count.svg" alt="Visitor Count" />
 </div>
 
-<!-- Activity Graph -->
-<div align="center">
-  <h3>📈 Contribution Activity</h3>
-  <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=abhinov956tech-developer&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
-</div>
-
-<!-- Profile Views Counter -->
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=abhinov956tech-developer&color=3b82f6&style=for-the-badge" alt="Profile Views" />
-</div>
 
 <!-- Footer with Animation -->
 <div align="center">
