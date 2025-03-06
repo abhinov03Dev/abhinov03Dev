@@ -28,11 +28,6 @@
   </a>
 </div>
 
-<!-- Animated Contribution Snake -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
-</div>
-
 <!-- About Me Section with Icons -->
 ## 👨‍💻 About Me
 
@@ -103,19 +98,6 @@ const abhinov = {
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhinov956tech-developer&theme=tokyonight" />
-</div>
-
-<!-- Achievements/Badges Section -->
-## 🏆 Achievements & Badges
-
-<div align="center">
-  <h3>GSSOC'24 Badges</h3>
-  <img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/postman.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/1.png?raw=true" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/2.png?raw=true" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/3.png?raw=true" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/4.png?raw=true" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/5.png?raw=true" width="100px" height="100px" />
 </div>
 
 <!-- Activity Graph -->
