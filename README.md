@@ -84,20 +84,96 @@ const abhinov = {
 
 </div>
 
-<!-- GitHub Activity Section -->
-## 📊 GitHub Stats
+## 📊 GitHub Stats & Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=abhinov956tech-developer&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117" alt="GitHub Stats" height="200px" />
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=abhinov956tech-developer&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" height="200px" />
+  <details open>
+    <summary><b>📈 Contribution Metrics</b></summary>
+    <br/>
+    <!-- Stat cards with hover effects -->
+    <a href="https://github.com/abhinov956tech-developer">
+      <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=abhinov956tech-developer&count_private=true&show_icons=true&include_all_commits=true&theme=react&hide_border=true&bg_color=0D1117&title_color=5BCDEC&icon_color=5BCDEC&text_color=FFFFFF" alt="Abhinov's GitHub Stats"/>
+      <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=abhinov956tech-developer&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=5BCDEC&icon_color=5BCDEC&text_color=FFFFFF"/>
+    </a>
+  </details>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhinov956tech-developer&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+  <!-- Streak Stats with gradient -->
+  <a href="https://github.com/abhinov956tech-developer">
+    <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=abhinov956tech-developer&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=5BCDEC&fire=5BCDEC&currStreakLabel=5BCDEC" alt="Contribution Streak"/>
+  </a>
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhinov956tech-developer&theme=tokyonight" />
+  <!-- Activity Graph with animations -->
+  <a href="https://github.com/abhinov956tech-developer">
+    <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=abhinov956tech-developer&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&area=true&hide_border=true" alt="Abhinov's Contribution Graph"/>
+  </a>
+</div>
+
+<div align="center">
+  <!-- Trophy showcase -->
+  <details>
+    <summary><b>🏆 GitHub Trophies</b></summary>
+    <br/>
+    <a href="https://github.com/abhinov956tech-developer">
+      <img src="https://github-profile-trophy.vercel.app/?username=abhinov956tech-developer&theme=react&no-frame=true&no-bg=true&margin-w=4" alt="Abhinov's GitHub Trophies"/>
+    </a>
+  </details>
+</div>
+
+<!-- Metrics panel with icons -->
+<div align="center">
+  <table>
+    <tr>
+      <td><b>🔄 Recent PRs</b></td>
+      <td><b>⭐ Stars</b></td>
+      <td><b>🔀 Forks</b></td>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://img.shields.io/badge/dynamic/json?logo=github&label=Open%20PRs&query=%24.total_count&url=https://api.github.com/search/issues?q=author:abhinov956tech-developer%20type:pr%20is:open&color=5BCDEC&style=flat-square"/>
+      </td>
+      <td>
+        <img src="https://img.shields.io/github/stars/abhinov956tech-developer?style=flat-square&labelColor=0D1117&color=5BCDEC&label=Stars"/>
+      </td>
+      <td>
+        <img src="https://img.shields.io/github/forks/abhinov956tech-developer?style=flat-square&labelColor=0D1117&color=5BCDEC&label=Forks"/>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<!-- Contribution calendar 3D -->
+<div align="center">
+  <details>
+    <summary><b>📅 3D Contribution Calendar</b></summary>
+    <br/>
+    <a href="https://github.com/abhinov956tech-developer">
+      <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D Contribution Calendar"/>
+    </a>
+    <br/>
+    <i>Note: You'll need to generate this using <a href="https://github.com/yoshi389111/github-profile-3d-contrib">this GitHub Action</a></i>
+  </details>
+</div>
+
+<!-- Real-time coding activity -->
+<div align="center">
+  <details>
+    <summary><b>⏱️ Weekly Coding Stats</b></summary>
+    <br/>
+    <a href="https://github.com/abhinov956tech-developer">
+      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=abhinov956tech-developer&theme=react&hide_border=true&bg_color=0D1117&title_color=5BCDEC&icon_color=5BCDEC&text_color=FFFFFF" alt="Weekly Coding Stats"/>
+    </a>
+    <br/>
+    <i>Note: You'll need to connect your GitHub account to <a href="https://wakatime.com/">WakaTime</a> to enable this widget</i>
+  </details>
+</div>
+
+<!-- Visitor count with animation -->
+<div align="center">
+  <img src="https://profile-counter.glitch.me/{abhinov956tech-developer}/count.svg" alt="Visitor Count" />
 </div>
 
 <!-- Activity Graph -->
