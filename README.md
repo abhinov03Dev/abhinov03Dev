@@ -1,25 +1,38 @@
-# Hi there, I'm [Abhinov Dutta] 👋
-
 <div align="center">
-  <img src="https://your-profile-banner-url.png" alt="Profile Banner" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hello%20World!&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20my%20GitHub%20Profile!&descAlignY=55&descAlign=62" width="100%">
 </div>
 
-[![Website](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://yourwebsite.com)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+# <div align="center">👋 Hi there, I'm Abhinov Dutta</div>
 
-> Software Engineer | Open Source Enthusiast | Tech Blogger
+<div align="center">
+  <a href="https://yourwebsite.com">
+    <img src="https://img.shields.io/badge/Website-3b5998?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
+  </a>
+  <a href="https://twitter.com/yourusername">
+    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="https://linkedin.com/in/yourusername">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2986CC&center=true&vCenter=true&width=435&lines=Software+Engineer;Open+Source+Enthusiast;Full+Stack+Developer;AI+%26+ML+Explorer;Always+Learning+New+Things" alt="Typing SVG" />
+</div>
+
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 
 ## 📋 Table of Contents
 
-- [About Me](#about-me)
-- [Featured Projects](#featured-projects)
-- [Skills](#skills)
-- [GitHub Stats](#github-stats)
-- [Latest Blog Posts](#latest-blog-posts)
-- [Connect With Me](#connect-with-me)
-- [How to Contribute](#how-to-contribute)
+- [About Me](#-about-me)
+- [Featured Projects](#-featured-projects)
+- [Skills & Tech Stack](#-skills--tech-stack)
+- [GitHub Stats](#-github-stats)
+- [Latest Blog Posts](#-latest-blog-posts)
+- [Connect With Me](#-connect-with-me)
 
 ## 🚀 About Me
 
@@ -32,18 +45,26 @@ I'm a passionate software engineer with a focus on web development and cloud tec
 - 📫 How to reach me: **your.email@example.com**
 - ⚡ Fun fact: **I can solve a Rubik's cube in under 2 minutes!**
 
+<div align="center">
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
+</div>
+
 ## 💻 Featured Projects
 
 <div align="center">
   <a href="https://github.com/yourusername/project1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project1&theme=radical" alt="Project 1" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project1&theme=tokyonight&hide_border=true&border_radius=10&bg_color=0D1117" alt="Project 1" />
   </a>
   <a href="https://github.com/yourusername/project2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project2&theme=radical" alt="Project 2" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project2&theme=tokyonight&hide_border=true&border_radius=10&bg_color=0D1117" alt="Project 2" />
   </a>
 </div>
 
-### Project Name 1
+### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Project Name 1
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/yourusername/project1/main/demo.gif" alt="Project 1 Demo" width="600">
+</div>
 
 A brief description of what this project does and what technologies it uses. Highlight any unique features or challenges you overcame.
 
@@ -51,7 +72,11 @@ A brief description of what this project does and what technologies it uses. Hig
 - **Demo**: [Live Demo](https://project1-demo.com)
 - **Repository**: [GitHub](https://github.com/yourusername/project1)
 
-### Project Name 2
+### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Project Name 2
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/yourusername/project2/main/demo.gif" alt="Project 2 Demo" width="600">
+</div>
 
 A brief description of what this project does and what technologies it uses. Highlight any unique features or challenges you overcame.
 
@@ -59,7 +84,11 @@ A brief description of what this project does and what technologies it uses. Hig
 - **Demo**: [Live Demo](https://project2-demo.com)
 - **Repository**: [GitHub](https://github.com/yourusername/project2)
 
-### Project Name 3
+### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Project Name 3
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/yourusername/project3/main/demo.gif" alt="Project 3 Demo" width="600">
+</div>
 
 A brief description of what this project does and what technologies it uses. Highlight any unique features or challenges you overcame.
 
@@ -67,69 +96,79 @@ A brief description of what this project does and what technologies it uses. Hig
 - **Demo**: [Live Demo](https://project3-demo.com)
 - **Repository**: [GitHub](https://github.com/yourusername/project3)
 
-## 🛠️ Skills
+## 🛠️ Skills & Tech Stack
 
-### Programming Languages
+<div align="center">
+  <table>
+    <tr>
+      <td valign="top" width="33%">
+        <h3>Frontend</h3>
+        <div align="center">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="50" height="50" />
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="50" height="50" />
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="50" height="50" />
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50" />
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50" />
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50" />
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" width="50" height="50" />
+        </div>
+      </td>
+      <td valign="top" width="33%">
+        <h3>Backend</h3>
+        <div align="center">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50" height="50" />
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express" width="50" height="50" />
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50" />
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="Django" width="50" height="50" />
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="50" height="50" />
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring" width="50" height="50" />
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" alt="GraphQL" width="50" height="50" />
+        </div>
+      </td>
+      <td valign="top" width="33%">
+        <h3>DevOps & Tools</h3>
+        <div align="center">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="50" height="50" />
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="50" height="50" />
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="50" height="50" />
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="Google Cloud" width="50" height="50" />
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" height="50" />
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="50" height="50" />
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="50" height="50" />
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-
-### Frontend Development
-
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
-![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-
-### Backend Development
-
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
-
-### Database
-
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-
-### DevOps & Cloud
-
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/-Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
-![Azure](https://img.shields.io/badge/-Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
-
-### Tools
-
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+<div align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Coding Skills" width="500">
+</div>
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" alt="Activity Graph" />
 </div>
 
 ## 📝 Latest Blog Posts
+
+<div align="center">
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" alt="Writing" width="400">
+</div>
 
 <!-- BLOG-POST-LIST:START -->
 - [How to Build a RESTful API with Node.js and Express](https://yourblog.com/post1)
@@ -159,16 +198,9 @@ A brief description of what this project does and what technologies it uses. Hig
   </a>
 </div>
 
-## 🤝 How to Contribute
-
-I'm always open to collaborating on interesting projects! If you'd like to contribute to any of my repositories:
-
-1. Fork the repository
-2. Create a new branch (`git checkout -b feature/amazing-feature`)
-3. Make your changes
-4. Commit your changes (`git commit -m 'Add some amazing feature'`)
-5. Push to the branch (`git push origin feature/amazing-feature`)
-6. Open a Pull Request
+<div align="center">
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em>Let's connect and chat! I'm always open to interesting discussions and collaboration opportunities.</em>
+</div>
 
 ## 📈 Visitor Count
 
@@ -179,33 +211,7 @@ I'm always open to collaborating on interesting projects! If you'd like to contr
 ---
 
 <div align="center">
-  <img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="Built with Love" />
-  <img src="https://forthebadge.com/images/badges/made-with-markdown.svg" alt="Made with Markdown" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer" width="100%">
 </div>
 
-<!-- 
-This README is a template. Feel free to customize it to showcase your own projects, skills, and achievements!
--->
-```
-
-This README template provides a comprehensive structure for an awesome GitHub profile. Here's what it includes:
-
-1. **Header section** with name, profile banner, and social media badges
-2. **Table of Contents** for easy navigation
-3. **About Me** section with personal information and current activities
-4. **Featured Projects** section with project cards and detailed descriptions
-5. **Skills** section organized by categories with colorful badges
-6. **GitHub Stats** section with visual statistics
-7. **Latest Blog Posts** section (with placeholder for automated updates)
-8. **Connect With Me** section with social media links
-9. **How to Contribute** section with step-by-step instructions
-10. **Visitor Count** for engagement tracking
-11. **Footer** with decorative badges
-
-To use this template:
-1. Replace "[Your Name]" with your actual name
-2. Update all placeholder URLs and usernames with your own
-3. Add your own projects, skills, and blog posts
-4. Upload a profile banner image and update the URL
-5. Customize the colors and badges to match your personal style
 
