@@ -82,17 +82,17 @@ I'm a aspiring Full-Stack Developer with a focus on web development and Generati
 <div align="center">
   <details>
   <summary><b>🏆 GitHub Trophies</b></summary>
-  <img src="https://github-profile-trophy.vercel.app/?username=abhinov956tech-developer&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=abhinov03Dev&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
   </details>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhinov956tech-developer&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhinov956tech-developer&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=abhinov03Dev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhinov03Dev&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhinov956tech-developer&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhinov03Dev&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" alt="Activity Graph" />
 </div>
 
 ## 🤝 Connect With Me
@@ -113,7 +113,7 @@ I'm a aspiring Full-Stack Developer with a focus on web development and Generati
 ## 📈 Visitor Count
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/{abhinov956tech-developer}/count.svg" alt="Visitor Count" />
+  <img src="https://profile-counter.glitch.me/{abhinov03Dev}/count.svg" alt="Visitor Count" />
 </div>
 
 ---
