@@ -150,7 +150,7 @@ const abhinov = {
   <summary><h3 align="center">🏆 &nbsp; Trophies</h3></summary>
   <br/>
   <div align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=abhinov03Dev&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7" alt="Trophies" />
+    <img src="https://github-trophies.vercel.app/?username=abhinov03Dev&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7" alt="Trophies" />
   </div>
 </details>
 
