@@ -114,7 +114,7 @@ const abhinov = {
 <!-- ═══════════════════════════════════════════════════ -->
 
 <!-- ───── 3D CONTRIBUTION CALENDAR ───── -->
-<details>
+<!-- <details>
   <summary><h3 align="center">📐 &nbsp; 3D Contribution Calendar</h3></summary>
   <br/>
   <div align="center">
@@ -126,7 +126,7 @@ const abhinov = {
   <div align="center">
     <sub>Set up via <a href="https://github.com/yoshi389111/github-profile-3d-contrib">github-profile-3d-contrib</a> GitHub Action</sub>
   </div>
-</details>
+</details> -->
 
 <!-- ───── SNAKE ANIMATION ───── -->
 <details>
