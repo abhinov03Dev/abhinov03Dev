@@ -92,9 +92,9 @@ const abhinov = {
   </picture>
   &nbsp;&nbsp;
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=abhinov03Dev&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=c9d1d9&currStreakNum=c9d1d9&dates=484f58" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=abhinov03Dev&hide_border=true&background=ffffff&ring=0969da&fire=0969da&currStreakLabel=0969da&sideLabels=1f2328&currStreakNum=1f2328&dates=656d76" />
-    <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=abhinov03Dev&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=c9d1d9&currStreakNum=c9d1d9&dates=484f58" alt="Streak Stats" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=abhinov03Dev&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=58a6ff&sideNums=58a6ff&currStreakNum=c9d1d9&dates=484f58" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=abhinov03Dev&hide_border=true&background=ffffff&ring=0969da&fire=0969da&currStreakLabel=0969da&sideLabels=0969da&sideNums=0969da&currStreakNum=1f2328&dates=656d76" />
+    <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=abhinov03Dev&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=58a6ff&sideNums=58a6ff&currStreakNum=c9d1d9&dates=484f58" alt="Streak Stats" />
   </picture>
 </div>
 
